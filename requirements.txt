@@ -1,0 +1,14 @@
+numpy
+scikit-learn
+matplotlib
+checklist
+fastapi
+pydantic
+uvicorn
+loguru
+mangum==0.11
+gensim==3.8.3
+scipy
+pandas
+umap-learn
+plotly

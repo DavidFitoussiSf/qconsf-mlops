@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+loguru
+scikit-learn
+numpy
+mangum==0.11
+gensim==3.8.3
